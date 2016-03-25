@@ -1,0 +1,29 @@
+{
+    "jogo":
+    
+        {
+            "id": 1,
+            "nome": "Street Fighter V",
+            "datalanc": "10/10/2016",
+            "imagem": "img/game1.jpg",
+            "nota": "Street Fighter V: Alex, primeiro lutador extra, chega no fim de março",
+            "descricao": "Alex, o primeiro lutador extra de Street Fighter V, foi revelado nesta quinta-feira (10). Ele será lançado no final de março junto da primeira grande atualização do game de luta, que corrige bugs e traz um modo de desafios e a loja virtual do jogo."
+        }
+        {
+            "id": 2,
+            "nome": "Rocket League",
+            "datalanc": "20/10/2016",
+            "imagem": "img/game2.jpg",
+            "nota": "'Rocket League' vai ganhar modo de basquete",
+            "descricao": "O popular game de futebol com carrinhos Rocket League em breve vai se aventurar por outros esportes. A produtora Psyonix postou no Twitter uma foto de um novo modo de basquete, e sugeriu que ele deve ser lançado até o final do ano."
+        }
+        {
+            "id": 3,
+            "nome": "Gears of War 4",
+            "datalanc": "30/10/2016",
+            "imagem": "img/game3.jpg",
+            "nota": "Gears of War 4 terá três protagonistas novos e retorno a clima de horror",
+            "descricao": "Gears of War 4, o próximo grande game do Xbox One, terá um trio inédito de protagonistas liderado por JD Fenix, filho de Marcus Fenix, o herói da trilogia Gears of War original. A informação foi anunciada na edição de abril da revista Game Informer, que conta ainda que a história do novo game se passa cerca de 25 anos após os acontecimentos de Gears 3."
+        }
+    
+}

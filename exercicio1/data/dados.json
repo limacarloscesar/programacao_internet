@@ -1,0 +1,37 @@
+{
+    "estados":
+    [
+        {
+            "id": 1,
+            "nome": "Minas Gerais"
+        },
+        {
+            "id": 2,
+            "nome": "São Paulo"           
+        },
+        {
+            "id": 3,
+            "nome": "Rio de Janeiro"
+        },
+        {
+            "id": 4,
+            "nome": "Paraná"
+        },
+        {
+            "id": 5,
+            "nome": "Espirito Santo"
+        },
+        {    
+            "id": 6,
+            "nome": "Bahia"
+        },
+        {
+            "id": 7,
+            "nome": "Piaui"
+        },
+        {
+            "id": 8,
+            "nome": "Amazonas"
+        }
+    ]
+}
